@@ -1,1 +1,4 @@
 # budget-surfing
+
+> The project is based on the concept of getting an accomodation and managing the budget while traveling. In this project the traveller can add their trips with basic details like the place where they are looking for accomodation, start date and end date of their trip, etc. They can also add category wise budget to keep track of their expenses, where categories can customized. While traveling they can add the amount spent in respective categories and gets a notification when they exceed their 50% or 75% of budget. 
+> The owner of the place can search a traveler through the city or state name. Only once a host accepts a traveller all detailed information of the apartment are displayed to the travelller. The host can also rate traveller, whose ratings can be seen by other hosts. The traveler also receives notification when their request for accomodation is accepted by the host.
